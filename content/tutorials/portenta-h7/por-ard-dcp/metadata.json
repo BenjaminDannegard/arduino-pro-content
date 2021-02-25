@@ -1,12 +1,5 @@
-{
-   "id":"por-ard-dcp",
-   "index": 2,
-   "title":"Dual Core Processing",
-   "slug":"por-ard-dcp",
-   "authors":[
-      "Lenard George",
-      "Sebastian Hunkeler"
-   ],
+{   
+   "title":"Dual Core Processing",   
    "coverImage":{
       "src":"assets/por_ard_dcp_cover.svg?sanitize=true"
    },
@@ -15,7 +8,5 @@
       "RGB", 
       "LED"
    ],
-   "abstract":"In this tutorial you will run two classic Arduino blink programs simultaneously on different cores of the Portenta board that blinks the RGB LED in two different colours.",
-   "previousArticle":"por-ard-gs",
-   "nextArticle":"por-ard-ap"
+   "abstract":"In this tutorial you will run two classic Arduino blink programs simultaneously on different cores of the Portenta board that blinks the RGB LED in two different colours."   
 }
